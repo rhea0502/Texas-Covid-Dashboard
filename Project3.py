@@ -1,10 +1,4 @@
 # File: Project3.py
-# Student: Rhea Mudnal
-# UT EID: rsm2983
-# Course Name: CS303E
-# 
-# Date Created: 4/27/21
-# Date Last Modified: 4/30/21
 # Description of Program: This program shows the contents of the COVID data File depending on what the user asks to see.
 
 import os.path
